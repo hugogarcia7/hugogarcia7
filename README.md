@@ -1,4 +1,5 @@
-Geográfo apaixonado por ciência e tecnologia. 
+Geographer passionate about science and technology. 
+Graduated in Geography from the Federal Institute of Education, Science and Technology of Ceará - IFCE. 
 
 <!---
 hugogarcia7/hugogarcia7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
